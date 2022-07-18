@@ -1,6 +1,6 @@
 # Python_practices2
 
-practice 2-1 ) 인수와 반환값 <br>
-practice 2-2 ) 파이썬으로 계산기 만들기 <br>
+practice 2-1 ) function : Arguments & Return Cases <br>
+practice 2-2 ) making a calculator by python codes <br>
 practice 2-3 ) function(def), global vs. local variables, string formatting. Exception-handling <br>
 practice 2-4 ) class <br>
